@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "452277289433",
+    "firebase_url": "https://chess-hotspot-136ce-default-rtdb.firebaseio.com",
+    "project_id": "chess-hotspot-136ce",
+    "storage_bucket": "chess-hotspot-136ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452277289433:android:063747846412ab4fe959c8",
+        "android_client_info": {
+          "package_name": "com.example.chess_hot_spot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452277289433-s2s7fauo43iqi8m9m523kl24947n3qb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl_9zG8L0P7QVLCwNLWjbHxn-3jeuc3ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452277289433-s2s7fauo43iqi8m9m523kl24947n3qb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
